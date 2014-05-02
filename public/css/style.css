@@ -1,0 +1,39 @@
+body {
+  background-color: green;
+  color: orange;
+  text-align: center;
+  font-style: italic;
+}
+
+.sidebar {
+  width: 109px;
+  background-color: tan;
+  float: right;
+  height: 100%;
+}
+
+a{
+  font-size: 31px;
+  color: black;
+  display: block;
+}
+
+.content {
+}
+
+h1 {
+  color: brown;
+  font-size: 80px;
+}
+
+img {
+  height: 2,000px;
+}
+
+p {
+  font-size: 35px;
+}
+.p2{
+  padding-left: 150px;
+  padding-right: 150px;
+}
